@@ -1,0 +1,27 @@
+{
+  "name": "frameworks_and_languages_module",
+  "version": "1.0.0",
+  "description": "Stub framework for \"Frameworks and Languages\" module",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelAdelodun/frameworks_and_languages_module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelAdelodun/frameworks_and_languages_module/issues"
+  },
+  "homepage": "https://github.com/MichaelAdelodun/frameworks_and_languages_module#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
